@@ -1,0 +1,35 @@
+{
+  "name": "block-explorer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@download/blockies": "^1.0.3",
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@nuxtjs/axios": "^5.12.2",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.3",
+    "canvas": "^2.6.1",
+    "core-js": "^3.6.5",
+    "crypto": "^1.0.1",
+    "humanhash": "^1.0.4",
+    "jquery": "^3.5.1",
+    "js-sha256": "^0.9.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.15.3",
+    "po2json": "^0.4.5",
+    "web3-utils": "^1.3.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.3"
+  }
+}
